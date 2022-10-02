@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/fitness/static/js/main.06af1e09.js",
+    "static/media/video.mp4": "/fitness/static/media/video.28f504cd0703cfc2bf6c.mp4",
+    "static/media/2.jpg": "/fitness/static/media/2.8db58274b7864c84b959.jpg",
+    "static/media/1.jpg": "/fitness/static/media/1.10343eb7fc14eea2e50c.jpg",
+    "static/media/nature.jpg": "/fitness/static/media/nature.08e25ab4fc0c61332729.jpg",
+    "static/media/4.jpg": "/fitness/static/media/4.1a86f2fb268fce79edac.jpg",
+    "static/media/3.jpg": "/fitness/static/media/3.0b0f120e78fe76814db9.jpg",
+    "static/media/5.jpg": "/fitness/static/media/5.f62ea4f1e5e76a0163e3.jpg",
+    "static/media/6.jpg": "/fitness/static/media/6.8edd19d3621ecebf84a6.jpg",
+    "index.html": "/fitness/index.html",
+    "main.06af1e09.js.map": "/fitness/static/js/main.06af1e09.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.06af1e09.js"
+  ]
+}
